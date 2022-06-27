@@ -16,3 +16,4 @@ the "Deliver" stage of your Pipeline.
 
 Sirisha
 Testing Fetch command
+Testing pull command
